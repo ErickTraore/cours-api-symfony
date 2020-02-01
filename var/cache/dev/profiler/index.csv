@@ -145,3 +145,4 @@ faace8,::1,GET,http://localhost/cours-api-symfony/public/index.php/api/post,1580
 2b751d,::1,POST,http://localhost/cours-api-symfony/public/index.php/api/post,1580567644,,500
 ca4d7e,::1,POST,http://localhost/cours-api-symfony/public/index.php/api/post,1580567714,,400
 f40e08,::1,POST,http://localhost/cours-api-symfony/public/index.php/api/post,1580567735,,201
+180fc2,::1,GET,http://localhost/cours-api-symfony/public/index.php/api/post,1580567920,,200
